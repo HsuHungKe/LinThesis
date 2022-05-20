@@ -1,1 +1,1 @@
-# LinThesis
+# LingThesis
